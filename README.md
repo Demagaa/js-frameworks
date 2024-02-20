@@ -3,7 +3,8 @@
 2. Version compartment & uniqueness: implement checking if version history is constistent (eg. (1,2,3), where (1,3,2) would not be allowed)   
 3. Document code based on practices within the team
 4. Combine latestVersion and previousVersion request params into single version
-5. Some optimisation & cleaning here and there  
+5. More test scenarios
+6. Some optimisation & cleaning here and there  
 
 
 # České zadání
